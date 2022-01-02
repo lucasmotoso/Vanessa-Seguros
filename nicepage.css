@@ -36307,6 +36307,10 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 767px) {
+  .u-header .u-image-1 {
+    transform: scale(1.1) translateX(0px) translateY(0px);
+  }
+
   .u-header .u-file-icon-1 {
     padding-top: 11px;
     padding-bottom: 11px;
