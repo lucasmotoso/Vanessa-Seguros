@@ -943,6 +943,7 @@
   }
 } .u-section-3 {
   background-image: url("images/7cd379391273495a4d8e8e7bb644a0c1c7f6898be13ae64a52d1124a69682d2208b7cff5c7ace8014f2f9b589a7eb66506bd2033fbecf8c2d16552_1280.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -1094,10 +1095,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-3 {
-    background-position: 50% 50%;
-  }
-
   .u-section-3 .u-sheet-1 {
     min-height: 822px;
   }
@@ -1206,6 +1203,10 @@
 }
 
 @media (max-width: 767px) {
+   .u-section-3 {
+    background-position: 50% 50%;
+  }
+
   .u-section-3 .u-sheet-1 {
     min-height: 1413px;
   }
