@@ -36290,7 +36290,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-1 {
     width: 140px;
-    transform: scale(1.1) translateX(0px) translateY(0px);
   }
 
   .u-header .u-menu-1 {
@@ -36315,6 +36314,7 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 575px) {
   .u-header .u-image-1 {
     margin-left: auto;
+    transform: scale(1.1) translateX(0px) translateY(0px);
   }
 }
 .u-header .u-image-1, .u-header .u-image-1:before {

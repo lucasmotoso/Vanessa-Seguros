@@ -26,7 +26,7 @@
 .u-section-1-1 .u-text-1 {
   text-shadow: 2px 2px 6px rgba(0,0,0,1);
   font-size: 6rem;
-  margin: 15px 0 0;
+  margin: 12px 0 0;
 }
 
 .u-section-1-1 .u-text-2 {
@@ -34,7 +34,7 @@
   font-style: normal;
   background-image: none;
   font-size: 2.25rem;
-  margin: 625px 0 15px;
+  margin: 628px 0 16px;
 }
 
 @media (max-width: 1199px) {
@@ -677,8 +677,8 @@
   width: 743px;
   height: 743px;
   object-position: 0% 50%;
-  background-position: 100% 10.57%;
-  background-image: url("images/9910a9fb61e9f9616bd7daa1a0116b3b81f816e5b9c78f7fc835350d39b736997078c7966471ca0469eeda0a6b006aa7a0c7afb2b84ec1618969da_1280.jpg");
+  background-position: 50% 50%;
+  background-image: url("images/d0935c43b57d4519548309ef5d288999c5e2fe80f232c99db619d29dcafbea1035273545c96d330a36c0ce4eb6f34925eb17d7c9c88723a998f457_1280.jpg");
   margin: -862px auto 0 calc(((100% - 1140px) / 2) + 44px);
 }
 
@@ -943,7 +943,6 @@
   }
 } .u-section-3 {
   background-image: url("images/7cd379391273495a4d8e8e7bb644a0c1c7f6898be13ae64a52d1124a69682d2208b7cff5c7ace8014f2f9b589a7eb66506bd2033fbecf8c2d16552_1280.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -1095,6 +1094,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-3 {
+    background-position: 50% 50%;
+  }
+
   .u-section-3 .u-sheet-1 {
     min-height: 822px;
   }
@@ -1203,10 +1206,6 @@
 }
 
 @media (max-width: 767px) {
-   .u-section-3 {
-    background-position: 50% 50%;
-  }
-
   .u-section-3 .u-sheet-1 {
     min-height: 1413px;
   }
